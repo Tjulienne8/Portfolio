@@ -16,7 +16,7 @@ Dies ist ein einfaches, responsives Portfolio, das mit **HTML** und **CSS** erst
 - HTML5
 - CSS3 (inkl. Media Queries für Responsivität)
 
-## 📸 Vorschau
+##  Vorschau
 
 ![Portfolio Vorschau](./assets/Portfolio_Bild.png)
 
